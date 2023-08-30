@@ -10,7 +10,7 @@
         "id": 2,
         "nome": "Enxada de Cobre",
         "custo": "2 000 ouros",
-        "ingredientes":"barra de cobre (5)",
+        "ingredientes":"Barra de cobre (5)",
         "melhorias":"Aumenta a alcance máxima 3 blocos, em uma linha a sua frente."
     },
     {
