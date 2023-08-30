@@ -19,7 +19,7 @@
         "dano": "3-7",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "",
-        "localizacao": "Guilda dos Aventureiros ou Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "Guilda dos Aventureiros e/ou Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "250 ouros",
         "preco-de-venda": "50 ouros"
     },
@@ -43,7 +43,7 @@
         "dano": "8-15",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Defesa (+1)",
-        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 20º andar das Minas) ou Baú no 50º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 20º andar das Minas) e/ou Baú no 50º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "750 ouros",
         "preco-de-venda": "100 ouros"
     },
@@ -55,7 +55,7 @@
         "dano": "8-14",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Velocidade (+2)",
-        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 30º andar das Minas) ou Baú no 50º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 30º andar das Minas) e/ou Baú no 50º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "850 ouros",
         "preco-de-venda": "100 ouros"
     },
@@ -67,7 +67,7 @@
         "dano": "9-17",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Velocidade (+2)",
-        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 25º andar das Minas) ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 25º andar das Minas) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "1 500 ouros",
         "preco-de-venda": "150 ouros"
     },
@@ -91,7 +91,7 @@
         "dano": "12-25",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Velocidade (-2), Defesa (+1) e Peso (+3)",
-        "localizacao": "As Minas (andares 41-59) ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "As Minas (andares 41-59) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "150 ouros"
     },
@@ -108,7 +108,7 @@
         "preco-de-venda": "200 ouros"
     },
     {
-        "id": 38,
+        "id": 39,
         "nome": "Gládio de Netuno",
         "nivel": "5",
         "descricao": "Herança de além do Mar de Joias.",
@@ -120,43 +120,43 @@
         "preco-de-venda": "250 ouros"
     },
     {
-        "id": 39,
+        "id": 40,
         "nome": "Espada Escocesa",
         "nivel": "5",
         "descricao": "É muito pesada.",
         "dano": "20-32",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Velocidade (-4), Defesa (+2) e Peso (+3)",
-        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 45º andar das Minas) ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 45º andar das Minas) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "2 000 ouros",
         "preco-de-venda": "250 ouros"
     },
     {
-        "id": 40,
+        "id": 41,
         "nome": "Espada do Templário",
         "nivel": "5",
         "descricao": "Já pertenceu a um honrado cavaleiro.",
         "dano": "22-29",
         "chance-de-acerto-critico": "0",
         "estatisticas": "Defesa (+1)",
-        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 55º andar das Minas) ou ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 55º andar das Minas) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "4 000 ouros",
         "preco-de-venda": "250 ouros"
     },
     {
-        "id": 41,
+        "id": 42,
         "nome": "Espada de Ossos",
         "nivel": "5",
         "descricao": "Muito leve. Feita de osso polido.",
         "dano": "20-30",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Velocidade (+4) e Peso (+2)",
-        "localizacao": "Drop de Esqueletos, Guilda dos Aventureiros (depois de desbloquear o 75º andar das Minas) ou ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "Drop de Esqueletos, Guilda dos Aventureiros (depois de desbloquear o 75º andar das Minas) e/ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "6 000 ouros",
         "preco-de-venda": "250 ouros"
     },
     {
-        "id": 42,
+        "id": 43,
         "nome": "Lâmina Ossificada",
         "nivel": "6",
         "descricao": "Uma lâmina grande e afiada formada por ossos.",
@@ -168,7 +168,7 @@
         "preco-de-venda": "300 ouros"
     },
     {
-        "id": 43,
+        "id": 44,
         "nome": "Espada de Obsidiana",
         "nivel": "6",
         "descricao": "Incrivelmente afiada.",
@@ -180,7 +180,7 @@
         "preco-de-venda": "300 ouros"
     },
     {
-        "id": 44,
+        "id": 45,
         "nome": "Dentes de Iete",
         "nivel": "7",
         "descricao": "Muito frios ao toque.",
@@ -192,31 +192,31 @@
         "preco-de-venda": "350 ouros"
     },
     {
-        "id": 45,
+        "id": 46,
         "nome": "Espada Temperada",
         "nivel": "7",
         "descricao": "Parece aguentar qualquer impacto.",
         "dano": "29-44",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Velocidade (-3), Defesa (+3) e Peso (+3)",
-        "localizacao": "As Minas (andares 81-99), Caverna da Caveira ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "As Minas (andares 81-99), Caverna da Caveira e/ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "350 ouros"
     },
     {
-        "id": 46,
+        "id": 47,
         "nome": "Cimitarra de Metal",
         "nivel": "8",
         "descricao": "Leve e poderosa.",
         "dano": "28-46",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Velocidade (+4) e Ataque Crítico (+20)",
-        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 90º andar das Minas), As Minas (andares 101+), Caverna da Caveira ou Baú no 110º andar das Minas (com recompensas aleatórias na mina apenas)",
+        "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 90º andar das Minas), As Minas (andares 101+), Caverna da Caveira e/ou Baú no 110º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "9 000 ouros",
         "preco-de-venda": "400 ouros"
     },
     {
-        "id": 47,
+        "id": 48,
         "nome": "Espada das Trevas",
         "nivel": "9",
         "descricao": "Brilha com uma energia misteriosa.",
@@ -228,7 +228,7 @@
         "preco-de-venda": "450 ouros"
     },
     {
-        "id": 48,
+        "id": 49,
         "nome": "Katana de Lava",
         "nivel": "10",
         "descricao": "Uma lâmina poderosa, forjada em uma piscina de lava.",
@@ -240,7 +240,7 @@
         "preco-de-venda": "500 ouros"
     },
     {
-        "id": 49,
+        "id": 50,
         "nome": "Espada Anã",
         "nivel": "13",
         "descricao": "É antiga, mas a lâmina nunca desgasta.",
@@ -252,7 +252,7 @@
         "preco-de-venda": "650 ouros"
     },
     {
-        "id": 50,
+        "id": 51,
         "nome": "Espada da Galáxia",
         "nivel": "13",
         "descricao": "Diferente de tudo que você já viu.",
@@ -264,7 +264,7 @@
         "preco-de-venda": "650 ouros"
     },
     {
-        "id": 51,
+        "id": 52,
         "nome": "Espada de Dente de Dragão",
         "nivel": "13",
         "descricao": "A lâmina foi forjada de um dente mágico.",
@@ -276,14 +276,14 @@
         "preco-de-venda": "650 ouros"
     },
     {
-        "id": 52,
+        "id": 53,
         "nome": "Lâmina do Infinito",
         "nivel": "17",
         "descricao": "A verdadeira forma da Espada da Galáxia.",
         "dano": "80-100",
         "chance-de-acerto-critico": ".02",
         "estatisticas": "Velocidade (+4) e Defesa (+2)",
-        "localizacao": "Combine a Espada da galáxia com Galaxy Soul.png Alma da Galáxia (3) na Forja",
+        "localizacao": "Combine a Espada da galáxia com Alma da Galáxia (3) na Forja",
         "preco-de-compra": "",
         "preco-de-venda": "850 ouros"
     }
