@@ -15,7 +15,7 @@
     },
     {
         "id": 18,
-        "nome": " Regador de Aço",
+        "nome": "Regador de Aço",
         "custo": "5 000 ouros",
         "ingredientes": "Barra de ferro (5)",
         "melhorias": "Capacidade aumentada para 100 cargas. Aumenta a área máxima de cada carga individual para 5 blocos em uma linha reta."
