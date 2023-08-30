@@ -1,0 +1,37 @@
+[
+    {
+        "id": 21,
+        "nome": "Lixeira",
+        "custo": "Ferramenta inicial",
+        "ingredientes":"",
+        "melhorias":"Usada para excluir itens do seu inventário."
+    },
+    {
+        "id": 22,
+        "nome": "Lixeira de Cobre",
+        "custo": "2 000 ouros",
+        "ingredientes":"barra de cobre (5)",
+        "melhorias":"Quando deletar um item, consiga 15% do valor de venda original."
+    },
+    {
+        "id": 23,
+        "nome": "Lixeira de Aço",
+        "custo": "5 000 ouros",
+        "ingredientes":"Barra de ferro (5)",
+        "melhorias":"Quando deletar um item, consiga 30% do valor de venda original."
+    },
+    {
+        "id": 24,
+        "nome": "Lixeira de Ouro",
+        "custo": "10 000 ouros",
+        "ingredientes":"Barra de ouro (5)",
+        "melhorias":"Quando deletar um item, consiga 45% do valor de venda original."
+    },
+    {
+        "id": 25,
+        "nome": "Lixeira de Irídio",
+        "custo": "25 000 ouros",
+        "ingredientes":"Barra de irídio (5)",
+        "melhorias":"Quando deletar um item, consiga 60% do valor de venda original."
+    }
+]

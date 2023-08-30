@@ -1,0 +1,37 @@
+[
+    {
+        "id": 11,
+        "nome": "Machado",
+        "custo": "Ferramenta inicial",
+        "ingredientes":"",
+        "melhorias":"10 acertos para derrubar uma árvore, 5 para cortar troncos pequenos."
+    },
+    {
+        "id": 12,
+        "nome": "Machado de Cobre",
+        "custo": "2 000 ouros",
+        "ingredientes":"barra de cobre (5)",
+        "melhorias":"Capaz de cortar troncos grandes.São necessários 8 acertos para derrubar árvores e 4 acertos para cortar troncos pequenos."
+    },
+    {
+        "id": 13,
+        "nome": "Machado de Aço",
+        "custo": "5 000 ouros",
+        "ingredientes":"Barra de ferro (5)",
+        "melhorias":"Capaz de cortar grandes torras.São necessários 6 acertos para derrubar árvores e 3 acertos para cortar troncos pequenos."
+    },
+    {
+        "id": 14,
+        "nome": "Machado de Ouro",
+        "custo": "10 000 ouros",
+        "ingredientes":"Barra de ouro (5)",
+        "melhorias":"4 acertos para derrubar árvores e 2 acertos para cortar troncos pequenos."
+    },
+    {
+        "id": 15,
+        "nome": "Machado de Irídio",
+        "custo": "25 000 ouros",
+        "ingredientes":"Barra de irídio (5)",
+        "melhorias":"2 acertos para derrubar árvores e 1 acerto para cortar troncos pequenos."
+    }
+]

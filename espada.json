@@ -1,0 +1,192 @@
+[
+    {
+        "id": 30,
+        "nome": "Espada Enferrujada",
+        "nivel": "1",
+        "dano":"2-5",
+        "chance-de-acerto-critico":".02",
+        "estatisticas":"",
+        "localizacao":"Entrada das Minas",
+        "preco-de-compra":"",
+        "preco-de-venda":"50 ouros"
+    },
+    {
+        "id": 31,
+        "nome": "Espada de Madeira",
+        "nivel": "1",
+        "dano":"2-5",
+        "chance-de-acerto-critico":".02",
+        "estatisticas":"",
+        "localizacao":"Entrada das Minas",
+        "preco-de-compra":"",
+        "preco-de-venda":"50 ouros"
+    },
+    {
+        "id": 32,
+        "nome": "Vara de Fibra de Vidro",
+        "preço": "1 800 ouros",
+        "melhorias":"Uso de Iscas.",
+        "requisitos":"Nível de Pesca 2"
+    },
+    {
+        "id": 33,
+        "nome": "Vara de Irídio",
+        "preço": "7 500 ouros",
+        "melhorias":"Uso de Iscas e Anzóis.",
+        "requisitos":"Nível de Pesca 3"
+    },
+    {
+        "id": 34,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 35,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 36,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 37,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 38,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 38,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 39,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 40,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 41,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 42,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 43,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 44,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 45,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 46,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 47,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 48,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 49,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 50,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 51,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 52,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 53,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    },
+    {
+        "id": 54,
+        "nome": "Vara de Bambu",
+        "preço": "500 ouros",
+        "melhorias":"",
+        "requisitos":""
+    }
+]
