@@ -4,27 +4,31 @@
         "nome": "Vara de Treinamento",
         "preço": "25 ouros",
         "melhorias": "",
-        "requisitos": ""
+        "requisitos": "",
+        "validado":"Sim"
     },
     {
         "id": 27,
         "nome": "Vara de Bambu",
         "preço": "500 ouros",
         "melhorias": "",
-        "requisitos": ""
+        "requisitos": "",
+        "validado":"Sim"
     },
     {
         "id": 28,
         "nome": "Vara de Fibra de Vidro",
         "preço": "1 800 ouros",
         "melhorias": "Uso de Iscas.",
-        "requisitos": "Nível de Pesca 2"
+        "requisitos": "Nível de Pesca 2",
+        "validado":"Sim"
     },
     {
         "id": 29,
         "nome": "Vara de Irídio",
         "preço": "7 500 ouros",
         "melhorias": "Uso de Iscas e Anzóis.",
-        "requisitos": "Nível de Pesca 3"
+        "requisitos": "Nível de Pesca 3",
+        "validado":"Sim"
     }
 ]
