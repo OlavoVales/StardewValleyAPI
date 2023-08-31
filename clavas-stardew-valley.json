@@ -9,8 +9,7 @@
         "estatisticas": "Velocidade (+2)",
         "localizacao": "Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)s",
         "preco-de-compra": "",
-        "preco-de-venda": "100 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "100 ouros"
     },
     {
         "id": 69,
@@ -22,8 +21,7 @@
         "estatisticas": "",
         "localizacao": "As Minas (andares 1-39) e/ou Baú no 20º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
-        "preco-de-venda": "100 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "100 ouros"
     },
     {
         "id": 70,
@@ -35,8 +33,7 @@
         "estatisticas": "Velocidade (+2) e Peso (+3)",
         "localizacao": "As Minas (andares 41-79), Guilda dos Aventureiros (depois de desbloquear o 40º andar das Minas) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "2 000 ouros",
-        "preco-de-venda": "150 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "150 ouros"
     },
     {
         "id": 71,
@@ -48,8 +45,7 @@
         "estatisticas": "Velocidade (-4)",
         "localizacao": "As Minas (andares 41-79)",
         "preco-de-compra": "",
-        "preco-de-venda": "200 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "200 ouros"
     },
     {
         "id": 72,
@@ -61,8 +57,7 @@
         "estatisticas": "Velocidade (-1), Ataque Crítico (+4) e Peso (+2)",
         "localizacao": "As Minas (andares 101+) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
-        "preco-de-venda": "250 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "250 ouros"
     },
     {
         "id": 73,
@@ -74,8 +69,7 @@
         "estatisticas": "Velocidade (-2)",
         "localizacao": "As Minas (andares 81-99), Caverna da Caveira e Baú no 110º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
-        "preco-de-venda": "350 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "350 ouros"
     },
     {
         "id": 74,
@@ -87,8 +81,7 @@
         "estatisticas": "Velocidade (+2) e Peso (+5)",
         "localizacao": "Guilda dos Aventureiros (após obter a Espada da galáxia)",
         "preco-de-compra": "75 000 ouros",
-        "preco-de-venda": "600 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "600 ouros"
     },
     {
         "id": 75,
@@ -100,8 +93,7 @@
         "estatisticas": "Defesa (+2) e Peso (+5)",
         "localizacao": "Baús de tesouro comuns na Caverna do Vulcão",
         "preco-de-compra": "",
-        "preco-de-venda": "650 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "650 ouros"
     },
     {
         "id": 76,
@@ -113,8 +105,7 @@
         "estatisticas": "Ataque Crítico (+50) e Peso (+3)",
         "localizacao": "Baús de tesouro raros na Caverna do Vulcão",
         "preco-de-compra": "",
-        "preco-de-venda": "700 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "700 ouros"
     },
     {
         "id": 77,
@@ -126,7 +117,6 @@
         "estatisticas": "Velocidade (+2), Defesa (+1) e Peso (+5)",
         "localizacao": "Combine o Martelo da Galáxia com Alma da Galáxia (3) na Forja",
         "preco-de-compra": "",
-        "preco-de-venda": "850 ouros",
-        "validado":"Sim"
+        "preco-de-venda": "850 ouros"
     }
 ]
