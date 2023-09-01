@@ -10,7 +10,7 @@
         "localizacao": "Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)s",
         "preco-de-compra": "",
         "preco-de-venda": "100 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 69,
@@ -23,7 +23,7 @@
         "localizacao": "As Minas (andares 1-39) e/ou Baú no 20º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "100 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 70,
@@ -36,7 +36,7 @@
         "localizacao": "As Minas (andares 41-79), Guilda dos Aventureiros (depois de desbloquear o 40º andar das Minas) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "2 000 ouros",
         "preco-de-venda": "150 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 71,
@@ -49,7 +49,7 @@
         "localizacao": "As Minas (andares 41-79)",
         "preco-de-compra": "",
         "preco-de-venda": "200 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 72,
@@ -62,7 +62,7 @@
         "localizacao": "As Minas (andares 101+) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "250 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 73,
@@ -75,7 +75,7 @@
         "localizacao": "As Minas (andares 81-99), Caverna da Caveira e Baú no 110º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "350 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 74,
@@ -88,7 +88,7 @@
         "localizacao": "Guilda dos Aventureiros (após obter a Espada da galáxia)",
         "preco-de-compra": "75 000 ouros",
         "preco-de-venda": "600 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 75,
@@ -101,7 +101,7 @@
         "localizacao": "Baús de tesouro comuns na Caverna do Vulcão",
         "preco-de-compra": "",
         "preco-de-venda": "650 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 76,
@@ -114,7 +114,7 @@
         "localizacao": "Baús de tesouro raros na Caverna do Vulcão",
         "preco-de-compra": "",
         "preco-de-venda": "700 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     },
     {
         "id": 77,
@@ -127,6 +127,6 @@
         "localizacao": "Combine o Martelo da Galáxia com Alma da Galáxia (3) na Forja",
         "preco-de-compra": "",
         "preco-de-venda": "850 ouros",
-        "tipo-item":"clavas"
+        "tipoitem":"clavas"
     }
 ]

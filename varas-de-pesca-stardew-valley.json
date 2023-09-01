@@ -5,7 +5,7 @@
         "custo": "25 ouros",
         "melhorias": "",
         "requisitos": "",
-        "tipo-item":"varas-de-pesca"
+        "tipoitem":"varas-de-pesca"
     },
     {
         "id": 27,
@@ -13,7 +13,7 @@
         "custo": "500 ouros",
         "requisitos": "",
         "melhorias": "",
-        "tipo-item":"varas-de-pesca"
+        "tipoitem":"varas-de-pesca"
     },
     {
         "id": 28,
@@ -21,7 +21,7 @@
         "custo": "1 800 ouros",
         "requisitos": "Nível de Pesca 2",
         "melhorias": "Uso de Iscas.",
-        "tipo-item":"varas-de-pesca"
+        "tipoitem":"varas-de-pesca"
     },
     {
         "id": 29,
@@ -29,6 +29,6 @@
         "custo": "7 500 ouros",
         "requisitos": "Nível de Pesca 3",
         "melhorias": "Uso de Iscas e Anzóis.",
-        "tipo-item":"varas-de-pesca"
+        "tipoitem":"varas-de-pesca"
     }
 ]

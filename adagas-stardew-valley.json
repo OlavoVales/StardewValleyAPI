@@ -10,7 +10,7 @@
         "localizacao": "As Minas (andares 1-19)",
         "preco-de-compra": "",
         "preco-de-venda": "50 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 55,
@@ -23,7 +23,7 @@
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 15º andar das Minas) e/ou Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "500 ouros",
         "preco-de-venda": "50 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 56,
@@ -36,7 +36,7 @@
         "localizacao": "As Minas (andares 21-39) e/ou Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "50 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 57,
@@ -49,7 +49,7 @@
         "localizacao": "Baú no 20º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "100 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 58,
@@ -62,7 +62,7 @@
         "localizacao": "Baú no 60º andar das Minas",
         "preco-de-compra": "",
         "preco-de-venda": "200 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 59,
@@ -75,7 +75,7 @@
         "localizacao": "As Minas (andares 81+), Caverna da Caveira e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "200 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 60,
@@ -88,7 +88,7 @@
         "localizacao": "As Minas (andares 61-79 e 101-119) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "200 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 61,
@@ -101,7 +101,7 @@
         "localizacao": "Baús de Tesouro de Pesca (Pesca Nível 2+)",
         "preco-de-compra": "",
         "preco-de-venda": "250 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 62,
@@ -114,7 +114,7 @@
         "localizacao": "Caverna da Caveira e/ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "400 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 63,
@@ -127,7 +127,7 @@
         "localizacao": "Guilda dos Aventureiros (após obter a Espada da galáxia)",
         "preco-de-compra": "35 000 ouros",
         "preco-de-venda": "400 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 64,
@@ -140,7 +140,7 @@
         "localizacao": "Baús de tesouro comuns na Caverna do Vulcão",
         "preco-de-compra": "",
         "preco-de-venda": "550 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 65,
@@ -153,7 +153,7 @@
         "localizacao": "Baús de tesouro raros na Caverna do Vulcão",
         "preco-de-compra": "",
         "preco-de-venda": "600 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 66,
@@ -166,7 +166,7 @@
         "localizacao": "Drop de Gosmas Especiais nas Minas durante a missão 'Perigo nas Profundezas' ou com o Santuário do Desafio ativado.",
         "preco-de-compra": "",
         "preco-de-venda": "600 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     },
     {
         "id": 67,
@@ -179,6 +179,6 @@
         "localizacao": "Combine a Adaga da galáxia com Alma da Galáxia (3) na Forja",
         "preco-de-compra": "",
         "preco-de-venda": "800 ouros",
-        "tipo-item":"adagas"
+        "tipoitem":"adagas"
     }
 ]

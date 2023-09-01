@@ -5,7 +5,7 @@
         "custo": "Ferramenta inicial",
         "ingredientes": "",
         "melhorias": "Tem uma capacidade de água total de 40 cargas antes de ter de ser reabastecido.",
-        "tipo-item":"regadores"
+        "tipoitem":"regadores"
     },
     {
         "id": 17,
@@ -13,7 +13,7 @@
         "custo": "2 000 ouros",
         "ingredientes": "Barra de cobre (5)",
         "melhorias": "Capacidade aumentada para 80 cargas. Aumenta a área máxima de cada carga individual para 3 blocos em uma linha reta.",
-        "tipo-item":"regadores"
+        "tipoitem":"regadores"
     },
     {
         "id": 18,
@@ -21,7 +21,7 @@
         "custo": "5 000 ouros",
         "ingredientes": "Barra de ferro (5)",
         "melhorias": "Capacidade aumentada para 100 cargas. Aumenta a área máxima de cada carga individual para 5 blocos em uma linha reta.",
-        "tipo-item":"regadores"
+        "tipoitem":"regadores"
     },
     {
         "id": 19,
@@ -29,7 +29,7 @@
         "custo": "10 000 ouros",
         "ingredientes": "Barra de ouro (5)",
         "melhorias": "Capacidade aumentada para 185 cargas. Aumenta a área máxima de cada carga individual para 3x3(9) blocos em uma linha reta.",
-        "tipo-item":"regadores"
+        "tipoitem":"regadores"
     },
     {
         "id": 20,
@@ -37,6 +37,6 @@
         "custo": "25 000 ouros",
         "ingredientes": "Barra de irídio (5)",
         "melhorias": "Capacidade aumentada para 334 cargas. Aumenta a área máxima de cada carga individual para 6x3(18) blocos em uma linha reta.",
-        "tipo-item":"regadores"
+        "tipoitem":"regadores"
     }
 ]

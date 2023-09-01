@@ -10,7 +10,7 @@
         "localizacao": "Entrada das Minas",
         "preco-de-compra": "",
         "preco-de-venda": "50 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 31,
@@ -23,7 +23,7 @@
         "localizacao": "Guilda dos Aventureiros e/ou Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "250 ouros",
         "preco-de-venda": "50 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 32,
@@ -36,7 +36,7 @@
         "localizacao": "Baú no 20º andar das Minas",
         "preco-de-compra": "",
         "preco-de-venda": "50 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 33,
@@ -49,7 +49,7 @@
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 20º andar das Minas) e/ou Baú no 50º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "750 ouros",
         "preco-de-venda": "100 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 34,
@@ -62,7 +62,7 @@
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 30º andar das Minas) e/ou Baú no 50º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "850 ouros",
         "preco-de-venda": "100 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 35,
@@ -75,7 +75,7 @@
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 25º andar das Minas) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "1 500 ouros",
         "preco-de-venda": "150 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 36,
@@ -88,7 +88,7 @@
         "localizacao": "As Minas (andares 21-59)",
         "preco-de-compra": "",
         "preco-de-venda": "150 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 37,
@@ -101,7 +101,7 @@
         "localizacao": "As Minas (andares 41-59) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "150 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 38,
@@ -114,7 +114,7 @@
         "localizacao": "Guilda dos Aventureiros (como recompensa por matar 125 Insetos e posteriomente disponível para compra)",
         "preco-de-compra": "10 000 ouros",
         "preco-de-venda": "200 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 39,
@@ -127,7 +127,7 @@
         "localizacao": "Baús de Tesouro de Pesca (Pesca Nível 2+)",
         "preco-de-compra": "",
         "preco-de-venda": "250 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 40,
@@ -140,7 +140,7 @@
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 45º andar das Minas) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "2 000 ouros",
         "preco-de-venda": "250 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 41,
@@ -153,7 +153,7 @@
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 55º andar das Minas) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "4 000 ouros",
         "preco-de-venda": "250 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 42,
@@ -166,7 +166,7 @@
         "localizacao": "Drop de Esqueletos, Guilda dos Aventureiros (depois de desbloquear o 75º andar das Minas) e/ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "6 000 ouros",
         "preco-de-venda": "250 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 43,
@@ -179,7 +179,7 @@
         "localizacao": "Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "300 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 44,
@@ -192,7 +192,7 @@
         "localizacao": "Baú no 90º andar das Minas",
         "preco-de-compra": "",
         "preco-de-venda": "300 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 45,
@@ -205,7 +205,7 @@
         "localizacao": "As Minas (andares 81-99)",
         "preco-de-compra": "",
         "preco-de-venda": "350 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 46,
@@ -218,7 +218,7 @@
         "localizacao": "As Minas (andares 81-99), Caverna da Caveira e/ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
         "preco-de-venda": "350 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 47,
@@ -231,7 +231,7 @@
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 90º andar das Minas), As Minas (andares 101+), Caverna da Caveira e/ou Baú no 110º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "9 000 ouros",
         "preco-de-venda": "400 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 48,
@@ -244,7 +244,7 @@
         "localizacao": "Drop de Caveira Assombrada",
         "preco-de-compra": "",
         "preco-de-venda": "450 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 49,
@@ -257,7 +257,7 @@
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 120º andar das Minas)",
         "preco-de-compra": "25 000 ouros",
         "preco-de-venda": "500 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 50,
@@ -270,7 +270,7 @@
         "localizacao": "Baús de tesouro comuns na Caverna do Vulcão",
         "preco-de-compra": "",
         "preco-de-venda": "650 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 51,
@@ -283,7 +283,7 @@
         "localizacao": "Leve um Fragmento prismático para os três pilares no Deserto",
         "preco-de-compra": "50 000 ouros",
         "preco-de-venda": "650 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 52,
@@ -296,7 +296,7 @@
         "localizacao": "Baús de tesouro raros na Caverna do Vulcão",
         "preco-de-compra": "",
         "preco-de-venda": "650 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     },
     {
         "id": 53,
@@ -309,6 +309,6 @@
         "localizacao": "Combine a Espada da galáxia com Alma da Galáxia (3) na Forja",
         "preco-de-compra": "",
         "preco-de-venda": "850 ouros",
-        "tipo-item":"espadas"
+        "tipoitem":"espadas"
     }
 ]
