@@ -5,11 +5,11 @@
         "nivel": "1",
         "descricao": "Uma espada enferrujada e cega.",
         "dano": "2-5",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "",
         "localizacao": "Entrada das Minas",
-        "preco-de-compra": "",
-        "preco-de-venda": "50 ouros",
+        "precodecompra": "",
+        "precodevenda": "50 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -18,11 +18,11 @@
         "nivel": "1",
         "descricao": "Nada mal para um pedaço de madeira.",
         "dano": "3-7",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "",
         "localizacao": "Guilda dos Aventureiros e/ou Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "250 ouros",
-        "preco-de-venda": "50 ouros",
+        "precodecompra": "250 ouros",
+        "precodevenda": "50 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -31,11 +31,11 @@
         "nivel": "1",
         "descricao": "Uma espada padrão.",
         "dano": "4-8",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+2)",
         "localizacao": "Baú no 20º andar das Minas",
-        "preco-de-compra": "",
-        "preco-de-venda": "50 ouros",
+        "precodecompra": "",
+        "precodevenda": "50 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -44,11 +44,11 @@
         "nivel": "2",
         "descricao": "Folheado com prata para reduzir a ferrugem.",
         "dano": "8-15",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Defesa (+1)",
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 20º andar das Minas) e/ou Baú no 50º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "750 ouros",
-        "preco-de-venda": "100 ouros",
+        "precodecompra": "750 ouros",
+        "precodevenda": "100 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -57,11 +57,11 @@
         "nivel": "2",
         "descricao": "Parece que um pirata a possuía.",
         "dano": "8-14",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+2)",
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 30º andar das Minas) e/ou Baú no 50º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "850 ouros",
-        "preco-de-venda": "100 ouros",
+        "precodecompra": "850 ouros",
+        "precodevenda": "100 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -70,11 +70,11 @@
         "nivel": "3",
         "descricao": "Um sabre muito bem feito",
         "dano": "9-17",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+2)",
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 25º andar das Minas) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "1 500 ouros",
-        "preco-de-venda": "150 ouros",
+        "precodecompra": "1 500 ouros",
+        "precodevenda": "150 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -83,11 +83,11 @@
         "nivel": "3",
         "descricao": "Feita poderosa mágica da floresta.",
         "dano": "8-18",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+2) e Defesa (+1)",
         "localizacao": "As Minas (andares 21-59)",
-        "preco-de-compra": "",
-        "preco-de-venda": "150 ouros",
+        "precodecompra": "",
+        "precodevenda": "150 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -96,11 +96,11 @@
         "nivel": "3",
         "descricao": "Uma espada pesada.",
         "dano": "12-25",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-2), Defesa (+1) e Peso (+3)",
         "localizacao": "As Minas (andares 41-59) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "",
-        "preco-de-venda": "150 ouros",
+        "precodecompra": "",
+        "precodevenda": "150 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -109,11 +109,11 @@
         "nivel": "4",
         "descricao": "Não muito agradável de segurar.",
         "dano": "10-20",
-        "chance-de-acerto-critico": ".04",
+        "chancedeacertocritico": ".04",
         "estatisticas": "Velocidade (+2) e Chance Crítica (+2)",
         "localizacao": "Guilda dos Aventureiros (como recompensa por matar 125 Insetos e posteriomente disponível para compra)",
-        "preco-de-compra": "10 000 ouros",
-        "preco-de-venda": "200 ouros",
+        "precodecompra": "10 000 ouros",
+        "precodevenda": "200 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -122,11 +122,11 @@
         "nivel": "5",
         "descricao": "Herança de além do Mar de Joias.",
         "dano": "18-35",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-1), Defesa (+2) e Peso (+4)",
         "localizacao": "Baús de Tesouro de Pesca (Pesca Nível 2+)",
-        "preco-de-compra": "",
-        "preco-de-venda": "250 ouros",
+        "precodecompra": "",
+        "precodevenda": "250 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -135,11 +135,11 @@
         "nivel": "5",
         "descricao": "É muito pesada.",
         "dano": "20-32",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-4), Defesa (+2) e Peso (+3)",
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 45º andar das Minas) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "2 000 ouros",
-        "preco-de-venda": "250 ouros",
+        "precodecompra": "2 000 ouros",
+        "precodevenda": "250 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -148,11 +148,11 @@
         "nivel": "5",
         "descricao": "Já pertenceu a um honrado cavaleiro.",
         "dano": "22-29",
-        "chance-de-acerto-critico": "0",
+        "chancedeacertocritico": "0",
         "estatisticas": "Defesa (+1)",
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 55º andar das Minas) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "4 000 ouros",
-        "preco-de-venda": "250 ouros",
+        "precodecompra": "4 000 ouros",
+        "precodevenda": "250 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -161,11 +161,11 @@
         "nivel": "5",
         "descricao": "Muito leve. Feita de osso polido.",
         "dano": "20-30",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+4) e Peso (+2)",
         "localizacao": "Drop de Esqueletos, Guilda dos Aventureiros (depois de desbloquear o 75º andar das Minas) e/ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "6 000 ouros",
-        "preco-de-venda": "250 ouros",
+        "precodecompra": "6 000 ouros",
+        "precodevenda": "250 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -174,11 +174,11 @@
         "nivel": "6",
         "descricao": "Uma lâmina grande e afiada formada por ossos.",
         "dano": "26-42",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-2), Defesa (+1) e Peso (+2)",
         "localizacao": "Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "",
-        "preco-de-venda": "300 ouros",
+        "precodecompra": "",
+        "precodevenda": "300 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -187,11 +187,11 @@
         "nivel": "6",
         "descricao": "Incrivelmente afiada.",
         "dano": "30-45",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-1) e Ataque Crítico (+10)",
         "localizacao": "Baú no 90º andar das Minas",
-        "preco-de-compra": "",
-        "preco-de-venda": "300 ouros",
+        "precodecompra": "",
+        "precodevenda": "300 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -200,11 +200,11 @@
         "nivel": "7",
         "descricao": "Muito frios ao toque.",
         "dano": "26-42",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Defesa (+4) e Ataque Crítico (+10)",
         "localizacao": "As Minas (andares 81-99)",
-        "preco-de-compra": "",
-        "preco-de-venda": "350 ouros",
+        "precodecompra": "",
+        "precodevenda": "350 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -213,11 +213,11 @@
         "nivel": "7",
         "descricao": "Parece aguentar qualquer impacto.",
         "dano": "29-44",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-3), Defesa (+3) e Peso (+3)",
         "localizacao": "As Minas (andares 81-99), Caverna da Caveira e/ou Baú no 90º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "",
-        "preco-de-venda": "350 ouros",
+        "precodecompra": "",
+        "precodevenda": "350 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -226,11 +226,11 @@
         "nivel": "8",
         "descricao": "Leve e poderosa.",
         "dano": "28-46",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+4) e Ataque Crítico (+20)",
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 90º andar das Minas), As Minas (andares 101+), Caverna da Caveira e/ou Baú no 110º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "9 000 ouros",
-        "preco-de-venda": "400 ouros",
+        "precodecompra": "9 000 ouros",
+        "precodevenda": "400 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -239,11 +239,11 @@
         "nivel": "9",
         "descricao": "Brilha com uma energia misteriosa.",
         "dano": "30-45",
-        "chance-de-acerto-critico": ".04",
+        "chancedeacertocritico": ".04",
         "estatisticas": "Velocidade (-5), Chance Crítica (+2), Peso (+5) e Vampírico (9%)",
         "localizacao": "Drop de Caveira Assombrada",
-        "preco-de-compra": "",
-        "preco-de-venda": "450 ouros",
+        "precodecompra": "",
+        "precodevenda": "450 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -252,11 +252,11 @@
         "nivel": "10",
         "descricao": "Uma lâmina poderosa, forjada em uma piscina de lava.",
         "dano": "55-64",
-        "chance-de-acerto-critico": ".015",
+        "chancedeacertocritico": ".015",
         "estatisticas": "Defesa (+3), Ataque Crítico (+25) e Peso (+3)",
         "localizacao": "Guilda dos Aventureiros (depois de desbloquear o 120º andar das Minas)",
-        "preco-de-compra": "25 000 ouros",
-        "preco-de-venda": "500 ouros",
+        "precodecompra": "25 000 ouros",
+        "precodevenda": "500 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -265,11 +265,11 @@
         "nivel": "13",
         "descricao": "É antiga, mas a lâmina nunca desgasta.",
         "dano": "65-75",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+2) e Defesa (+4)",
         "localizacao": "Baús de tesouro comuns na Caverna do Vulcão",
-        "preco-de-compra": "",
-        "preco-de-venda": "650 ouros",
+        "precodecompra": "",
+        "precodevenda": "650 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -278,11 +278,11 @@
         "nivel": "13",
         "descricao": "Diferente de tudo que você já viu.",
         "dano": "60-80",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+4)",
         "localizacao": "Leve um Fragmento prismático para os três pilares no Deserto",
-        "preco-de-compra": "50 000 ouros",
-        "preco-de-venda": "650 ouros",
+        "precodecompra": "50 000 ouros",
+        "precodevenda": "650 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -291,11 +291,11 @@
         "nivel": "13",
         "descricao": "A lâmina foi forjada de um dente mágico.",
         "dano": "75-90",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Ataque Crítico (+50)",
         "localizacao": "Baús de tesouro raros na Caverna do Vulcão",
-        "preco-de-compra": "",
-        "preco-de-venda": "650 ouros",
+        "precodecompra": "",
+        "precodevenda": "650 ouros",
         "tipoitem":"espadas"
     },
     {
@@ -304,11 +304,11 @@
         "nivel": "17",
         "descricao": "A verdadeira forma da Espada da Galáxia.",
         "dano": "80-100",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+4) e Defesa (+2)",
         "localizacao": "Combine a Espada da galáxia com Alma da Galáxia (3) na Forja",
-        "preco-de-compra": "",
-        "preco-de-venda": "850 ouros",
+        "precodecompra": "",
+        "precodevenda": "850 ouros",
         "tipoitem":"espadas"
     }
 ]

@@ -5,11 +5,11 @@
         "nivel": "2",
         "descricao": "Um osso velho e pesado coberto por décadas de sujeira.",
         "dano": "6-11",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+2)",
         "localizacao": "Baú no 10º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "",
-        "preco-de-venda": "100 ouros",
+        "precodecompra": "",
+        "precodevenda": "100 ouros",
         "tipoitem":"clavas"
     },
     {
@@ -18,11 +18,11 @@
         "nivel": "2",
         "descricao": "Feito de madeira pouco maciça.",
         "dano": "9-16",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "",
         "localizacao": "As Minas (andares 1-39) e/ou Baú no 20º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "",
-        "preco-de-venda": "100 ouros",
+        "precodecompra": "",
+        "precodevenda": "100 ouros",
         "tipoitem":"clavas"
     },
     {
@@ -31,11 +31,11 @@
         "nivel": "3",
         "descricao": "A cabeça maciça causa um estrago... Muito leve para um malho.",
         "dano": "15-24",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (+2) e Peso (+3)",
         "localizacao": "As Minas (andares 41-79), Guilda dos Aventureiros (depois de desbloquear o 40º andar das Minas) e/ou Baú no 60º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "2 000 ouros",
-        "preco-de-venda": "150 ouros",
+        "precodecompra": "2 000 ouros",
+        "precodevenda": "150 ouros",
         "tipoitem":"clavas"
     },
     {
@@ -44,11 +44,11 @@
         "nivel": "4",
         "descricao": "Incrivelmente pesado.",
         "dano": "18-27",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-4)",
         "localizacao": "As Minas (andares 41-79)",
-        "preco-de-compra": "",
-        "preco-de-venda": "200 ouros",
+        "precodecompra": "",
+        "precodevenda": "200 ouros",
         "tipoitem":"clavas"
     },
     {
@@ -57,11 +57,11 @@
         "nivel": "5",
         "descricao": "A companhia de um bruto.",
         "dano": "27-40",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-1), Ataque Crítico (+4) e Peso (+2)",
         "localizacao": "As Minas (andares 101+) e/ou Baú no 80º andar das Minas (com recompensas aleatórias na mina apenas)",
-        "preco-de-compra": "",
-        "preco-de-venda": "250 ouros",
+        "precodecompra": "",
+        "precodevenda": "250 ouros",
         "tipoitem":"clavas"
     },
     {
@@ -70,7 +70,7 @@
         "nivel": "7",
         "descricao": "Martelo tão pesado que manda inimigos voando.",
         "dano": "40-55",
-        "chance-de-acerto-critico": ".02",
+        "chancedeacertocritico": ".02",
         "estatisticas": "Velocidade (-2)",
         "localizacao": "As Minas (andares 81-99), Caverna da Caveira e Baú no 110º andar das Minas (com recompensas aleatórias na mina apenas)",
         "preco-de-compra": "",
